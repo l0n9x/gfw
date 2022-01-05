@@ -4,4 +4,4 @@ payload:
   - '+.binance.com'
   - '+.gate.io'
   - '+.coinmarketcap.com'
-
+  - '+.googleapis.cn'
