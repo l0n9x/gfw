@@ -9,3 +9,5 @@ payload:
   - '+.hiveos.farm'
   - '+.ethermine.org'
   - '+.flypool.org'
+  - '+.githubusercontent.com'
+  - '+.github.com'
