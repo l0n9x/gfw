@@ -12,3 +12,4 @@ payload:
   - '+.githubusercontent.com'
   - '+.github.com'
   - '+.nicehash.com'
+  - '+.unity.com'
