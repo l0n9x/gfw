@@ -11,3 +11,4 @@ payload:
   - '+.flypool.org'
   - '+.githubusercontent.com'
   - '+.github.com'
+  - '+.nicehash.com'
