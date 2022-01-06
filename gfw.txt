@@ -13,3 +13,4 @@ payload:
   - '+.github.com'
   - '+.nicehash.com'
   - '+.unity.com'
+  - '+.okex.com'
