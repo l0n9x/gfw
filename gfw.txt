@@ -16,3 +16,4 @@ payload:
   - '+.okex.com'
   - '+.aragon.org'
   - '+.crazypool.org'
+  - '+.miningpoolhub.com'
