@@ -17,3 +17,4 @@ payload:
   - '+.aragon.org'
   - '+.crazypool.org'
   - '+.miningpoolhub.com'
+  - '+.2miners.com'
