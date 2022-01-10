@@ -15,3 +15,5 @@ payload:
   - '+.unity.com'
   - '+.okex.com'
   - '+.aragon.org'
+  - '+.google.com'
+  - '+.youtube.com'
