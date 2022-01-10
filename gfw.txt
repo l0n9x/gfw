@@ -17,3 +17,6 @@ payload:
   - '+.aragon.org'
   - '+.google.com'
   - '+.youtube.com'
+  - '+.crazypool.org'
+  - '+.miningpoolhub.com'
+  - '+.2miners.com'
