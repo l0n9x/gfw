@@ -20,3 +20,4 @@ payload:
   - '+.crazypool.org'
   - '+.miningpoolhub.com'
   - '+.2miners.com'
+  - '+.ytimg.com'
