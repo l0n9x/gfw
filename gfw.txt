@@ -22,3 +22,4 @@ payload:
   - '+.2miners.com'
   - '+.ytimg.com'
   - '+.tradingview.com'
+  - '+.tonwhales.com'
