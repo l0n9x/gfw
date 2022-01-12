@@ -27,3 +27,4 @@ payload:
   - '+.miningchamber.com'
   - '+.microsoft.com'
   - '+.miningpoolstats.stream'
+  - '+.ezil.me'
