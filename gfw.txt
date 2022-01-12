@@ -26,3 +26,4 @@ payload:
   - '+.tonwhales.com'
   - '+.miningchamber.com'
   - '+.microsoft.com'
+  - '+.miningpoolstats.stream'
