@@ -2,6 +2,7 @@ payload:
   - '+.haishan.me'
   - '+.minerpool.org'
   - '+.binance.com'
+  - '+.binance.cloud'
   - '+.gate.io'
   - '+.coinmarketcap.com'
   - '+.googleapis.cn'
@@ -25,3 +26,5 @@ payload:
   - '+.tonwhales.com'
   - '+.miningchamber.com'
   - '+.microsoft.com'
+  - '+.miningpoolstats.stream'
+  - '+.ezil.me'
