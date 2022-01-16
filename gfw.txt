@@ -28,3 +28,4 @@ payload:
   - '+.microsoft.com'
   - '+.miningpoolstats.stream'
   - '+.ezil.me'
+  - '+.2miners.com'
