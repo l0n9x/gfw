@@ -29,3 +29,5 @@ payload:
   - '+.miningpoolstats.stream'
   - '+.ezil.me'
   - '+.2miners.com'
+  - '+.flexpool.io'
+  
