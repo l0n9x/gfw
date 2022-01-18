@@ -30,4 +30,4 @@ payload:
   - '+.ezil.me'
   - '+.2miners.com'
   - '+.flexpool.io'
-  
+  - '+.asus.com'
