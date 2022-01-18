@@ -31,3 +31,4 @@ payload:
   - '+.2miners.com'
   - '+.flexpool.io'
   - '+.asus.com'
+  - '+.hunter.sh'
