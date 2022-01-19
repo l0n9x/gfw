@@ -32,3 +32,5 @@ payload:
   - '+.flexpool.io'
   - '+.asus.com'
   - '+.hunter.sh'
+  - '+.polygon.technology'
+  
