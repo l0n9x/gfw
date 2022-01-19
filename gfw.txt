@@ -33,4 +33,5 @@ payload:
   - '+.asus.com'
   - '+.hunter.sh'
   - '+.polygon.technology'
+  - '+.golang.org'
   
