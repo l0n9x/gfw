@@ -34,4 +34,4 @@ payload:
   - '+.hunter.sh'
   - '+.polygon.technology'
   - '+.golang.org'
-  
+  - '+.matic.supply'
