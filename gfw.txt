@@ -15,6 +15,7 @@ payload:
   - '+.nicehash.com'
   - '+.unity.com'
   - '+.okex.com'
+  - '+.okx.com'
   - '+.aragon.org'
   - '+.google.com'
   - '+.youtube.com'
