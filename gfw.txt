@@ -39,3 +39,4 @@ payload:
   - '+.tonwhales.com'
   - '+.ton.org'
   - '+.fastgit.org'
+  - '+.hiveon.net'
