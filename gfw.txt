@@ -36,3 +36,4 @@ payload:
   - '+.polygon.technology'
   - '+.golang.org'
   - '+.matic.supply'
+  - '+.tonwhales.com'
