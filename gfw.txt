@@ -37,3 +37,4 @@ payload:
   - '+.golang.org'
   - '+.matic.supply'
   - '+.tonwhales.com'
+  - '+.fastgit.org'
