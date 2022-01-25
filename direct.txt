@@ -2,3 +2,6 @@ payload:
   - '+.taobao.com'
   - '+.jd.com'
   - '+.blackmagicdesign.com'
+  - '+.feishu.cn'
+  - '+.alicdn.com'
+  - '+.windows.com'
