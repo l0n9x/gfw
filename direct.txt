@@ -5,3 +5,5 @@ payload:
   - '+.feishu.cn'
   - '+.alicdn.com'
   - '+.windows.com'
+  - '+.metawnr.com'
+  
