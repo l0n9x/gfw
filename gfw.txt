@@ -4,6 +4,7 @@ payload:
   - '+.gate.io'
   - '+.coinmarketcap.com'
   - '+.googleapis.cn'
+  - '+.google-analytics.com'
   - '+.whattomine.com'
   - '+.hiveos.farm'
   - '+.ethermine.org'
