@@ -40,3 +40,5 @@ payload:
   - '+.ton.org'
   - '+.fastgit.org'
   - '+.hiveon.net'
+  - '+.f2pool.com'
+  
