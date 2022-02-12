@@ -1,2 +1,2 @@
 payload:
-  - '+.binance.+'
+  - '+.binance.me'
