@@ -1,2 +1,5 @@
 payload:
   - '+.binance.me'
+  - '+.binance.com'
+  - '+.binance.cloud'
+  - '+.bnappzh.cc'
