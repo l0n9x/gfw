@@ -2,3 +2,4 @@ payload:
   - '+.binance.*'
   - '+.bnappzh.*'
   - '+.bntrace.*'
+  - '+.bnbstatic.*'
