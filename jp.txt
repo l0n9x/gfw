@@ -1,4 +1,5 @@
 payload:
   - '+.binance.*'
-  - '+.bnappzh.cc'
-  - '+.bnbstatic.com'
+  - '+.bnappzh.*'
+  - '+.bntrace.*'
+  - '+.bnbstatic.*'
