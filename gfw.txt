@@ -41,4 +41,5 @@ payload:
   - '+.fastgit.org'
   - '+.hiveon.net'
   - '+.f2pool.com'
+  - '+.bscscan.com'
   
