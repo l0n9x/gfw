@@ -6,4 +6,5 @@ payload:
   - '+.alicdn.com'
   - '+.windows.com'
   - '+.metawnr.com'
+  - '+.360buyimg.com'
   
