@@ -1,5 +1,6 @@
 payload:
   - '+.taobao.com'
+  - '+.tmall.com'
   - '+.jd.com'
   - '+.blackmagicdesign.com'
   - '+.feishu.cn'
