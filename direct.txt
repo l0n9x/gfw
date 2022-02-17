@@ -8,4 +8,4 @@ payload:
   - '+.windows.com'
   - '+.metawnr.com'
   - '+.360buyimg.com'
-  
+  - '+.feishucdn.com'
