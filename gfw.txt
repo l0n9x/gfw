@@ -42,4 +42,5 @@ payload:
   - '+.hiveon.net'
   - '+.f2pool.com'
   - '+.bscscan.com'
+  - '+.pexpay.*'
   
