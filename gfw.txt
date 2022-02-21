@@ -17,6 +17,7 @@ payload:
   - '+.okx.com'
   - '+.aragon.org'
   - '+.google.com'
+  - '+.googlevideo.com'
   - '+.googleapis.com'
   - '+.youtube.com'
   - '+.crazypool.org'
