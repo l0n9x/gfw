@@ -3,3 +3,6 @@ payload:
   - '+.bnappzh.*'
   - '+.bntrace.*'
   - '+.bnbstatic.*'
+  - '+.bybit.com'
+  - '+.bycsi.com'
+  - 'bybit.ada.support'
