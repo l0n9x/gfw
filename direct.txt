@@ -9,3 +9,4 @@ payload:
   - '+.metawnr.com'
   - '+.360buyimg.com'
   - '+.feishucdn.com'
+  - '+.colorful.cn'
