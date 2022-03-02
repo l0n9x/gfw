@@ -44,4 +44,5 @@ payload:
   - '+.f2pool.com'
   - '+.bscscan.com'
   - '+.pexpay.*'
+  - '+.metaswap.codefi.network'
   
