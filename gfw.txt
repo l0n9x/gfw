@@ -21,6 +21,7 @@ payload:
   - '+.googleapis.com'
   - '+.youtube.com'
   - '+.twitter.com'
+  - '+.twimg.com'
   - '+.crazypool.org'
   - '+.miningpoolhub.com'
   - '+.2miners.com'
