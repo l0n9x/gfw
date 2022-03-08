@@ -47,4 +47,4 @@ payload:
   - '+.bscscan.com'
   - '+.pexpay.*'
   - '+.metaswap.codefi.network'
-  
+  - '+.windows.net'
