@@ -48,3 +48,4 @@ payload:
   - '+.pexpay.*'
   - '+.metaswap.codefi.network'
   - '+.windows.net'
+  - '+.pool.space'
