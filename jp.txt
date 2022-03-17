@@ -7,3 +7,4 @@ payload:
   - '+.bycsi.com'
   - 'bybit.ada.support'
   - '+.byabced.com'
+  - '+.bitfinex.com'
