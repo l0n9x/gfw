@@ -11,3 +11,4 @@ payload:
   - '+.feishucdn.com'
   - '+.colorful.cn'
   - '+.myds.me'
+  - '+.bitfinex.com'
