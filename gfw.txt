@@ -25,6 +25,7 @@ payload:
   - '+.crazypool.org'
   - '+.miningpoolhub.com'
   - '+.2miners.com'
+  - '+.f2pool.com'
   - '+.ytimg.com'
   - '+.tradingview.com'
   - '+.tonwhales.com'
