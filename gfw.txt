@@ -49,3 +49,4 @@ payload:
   - '+.metaswap.codefi.network'
   - '+.windows.net'
   - '+.pool.space'
+  - '+.blockscout.com'
