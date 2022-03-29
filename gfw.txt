@@ -52,4 +52,5 @@ payload:
   - '+.windows.net'
   - '+.pool.space'
   - '+.blockscout.com'
+  - '+.pancakeswap.finance'
  
