@@ -37,7 +37,8 @@ payload:
   - '+.flexpool.io'
   - '+.asus.com'
   - '+.hunter.sh'
-  - '+.polygon.technology'
+  - '+.polygon.technology'  
+  - '+.polygon-rpc.com'
   - '+.golang.org'
   - '+.matic.supply'
   - '+.tonwhales.com'
@@ -51,3 +52,4 @@ payload:
   - '+.windows.net'
   - '+.pool.space'
   - '+.blockscout.com'
+ 
