@@ -53,4 +53,5 @@ payload:
   - '+.pool.space'
   - '+.blockscout.com'
   - '+.pancakeswap.finance'
+  - '+.sunflower-land.com'
  
