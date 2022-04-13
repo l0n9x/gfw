@@ -1,9 +1,9 @@
 payload:
-  - "+.binance.*"
-  - "+.bnappzh.*"
-  - "+.bntrace.*"
-  - "+.bnbstatic.*"
-  - "+.bybit.com"
-  - "+.bycsi.com"
-  - "bybit.ada.support"
-  - "+.byabced.com"
+  - +.binance.*
+  - +.bnappzh.*
+  - +.bntrace.*
+  - +.bnbstatic.*
+  - +.bybit.com
+  - +.bycsi.com
+  - bybit.ada.support
+  - +.byabced.com
