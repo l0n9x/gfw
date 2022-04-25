@@ -12,3 +12,7 @@ payload:
   - +.colorful.cn
   - +.myds.me
   - +.bitfinex.com
+  - +.binance.*
+  - +.bnappzh.*
+  - +.bntrace.*
+  - +.bnbstatic.*
