@@ -56,16 +56,7 @@ payload:
   - "+.sandbox.game"
   - '+.sunflower-land.com'
   - '+.pool.space'
-  - +.bitfinex.com
-  - +.binance.*
-  - +.bnappzh.*
-  - +.bntrace.*
-  - +.bnbstatic.*
-  - +.bybit.com
-  - +.bycsi.com
-  - bybit.ada.support
-  - +.byabced.com
-  - +.dydx.exchange
+  - "+.haishan.me"
   - +.discord.com
   - +.discordapp.net
   - +.discord.gg

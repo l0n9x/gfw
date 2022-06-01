@@ -1,2 +1,11 @@
 payload:
-  - "+.haishan.me"
+  - +.bitfinex.com
+  - +.binance.*
+  - +.bnappzh.*
+  - +.bntrace.*
+  - +.bnbstatic.*
+  - +.bybit.com
+  - +.bycsi.com
+  - bybit.ada.support
+  - +.byabced.com
+  - +.dydx.exchange
