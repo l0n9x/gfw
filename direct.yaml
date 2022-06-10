@@ -16,3 +16,5 @@ payload:
   - +.bnappzh.*
   - +.bntrace.*
   - +.bnbstatic.*
+  - "+.okex.com"
+  - "+.okx.com"
